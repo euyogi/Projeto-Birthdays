@@ -1,5 +1,5 @@
 # Protótipo-Birthdays
-Você insere o nome e a data do aniversário, e então o aniversário vai ser guardado na lista abaixo
+Site feito com o framework Flask e a base de dados em sqlite3, você insere o nome e a data do aniversário, e então o aniversário vai ser guardado na lista abaixo.
 
 <h2>Tela Inicial:</h2>
 
