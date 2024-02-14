@@ -1,4 +1,7 @@
 # Protótipo-Birthdays
+
+<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=100&section=header">
+
 Site feito com o framework Flask e a base de dados em sqlite3, você insere o nome e a data do aniversário, e então o aniversário vai ser guardado na lista abaixo.
 
 <h2>Tela Inicial:</h2>
@@ -9,3 +12,5 @@ Site feito com o framework Flask e a base de dados em sqlite3, você insere o no
 
 * Guarda aniversários
 * Responsividade mobile
+
+<img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=100&section=footer">
