@@ -13,4 +13,8 @@ Site feito com o framework Flask e a base de dados em sqlite3, você insere o no
 * Guarda aniversários
 * Responsividade mobile
 
+<p align="center">
+  Feito por: Yogi Nam de Souza Barbosa
+</p>
+
 <img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=100&section=footer">
