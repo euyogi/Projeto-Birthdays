@@ -6,7 +6,7 @@ Site feito com o framework Flask e a base de dados em sqlite3, você insere o no
 
 <h2>Para testar:</h2>
 
-Abra-o <a href="https://prototipo-birthdays.vercel.app/">aqui</a>.
+Abrir <a href="https://prototipo-birthdays.vercel.app/">Prototipo-Birthdays</a>.
 
 <h2>Tela Inicial:</h2>
 
