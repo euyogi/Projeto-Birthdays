@@ -4,11 +4,15 @@
 
 Site feito com o framework Flask e a base de dados em sqlite3, você insere o nome e a data do aniversário, e então o aniversário vai ser guardado na lista abaixo.
 
-<h2>Para testar:</h2>
+<h2>Para testar localmente:</h2>
 
-Abrir <a href="https://prototipo-birthdays.vercel.app/">Prototipo-Birthdays</a>.
+Necessário: Python
 
-<b>Não vai ser possível adicionar as datas porque a database não está configurada!</b>
+Baixe e extraia o .zip com os arquivos.
+
+Instale as bibliotecas necessárias com `pip install -r requirements.txt`
+
+Rode com `flask run` e abra o link dado, provavelmente http://127.0.0.1:5000.
 
 <h2>Tela Inicial:</h2>
 
